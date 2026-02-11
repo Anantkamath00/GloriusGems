@@ -18,11 +18,6 @@ A stunning, modern website for Glories Gems - your premier destination for exqui
 **Tagline:** Where Luxury Meets Craftsmanship  
 **Colors:** Emerald Green (#0f5132, #1a7f5a) and Gold (#d4af37)
 
-## Contact
-
-- **Phone:** +91 9876543210
-- **Email:** info@gloriesgems.com, contact@gloriesgems.com
-- **Location:** Premium Jewelry Showroom, Luxury Shopping District
 
 ## Technology Stack
 
